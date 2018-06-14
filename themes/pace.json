@@ -3,6 +3,15 @@
     "theme": {
       "colors": {
         "main": "#57c2e4"
+      },
+      "baseFont": {
+        "family": "'ProximaNova', Helvetica,Arial,sans-serif",
+        "weight": "400",
+        "size": "16px",
+        "lineHeight": "1.4"
+      },
+      "headingsFont": {
+        "family": "'ProximaNova', Helvetica,Arial,sans-serif"
       }
     }
   }
